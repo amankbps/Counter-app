@@ -1,0 +1,35 @@
+
+    body{
+        background: #98FB98;
+    }
+      h1 {
+        margin-top: 200px;
+        text-align: center;
+        font-weight: bold;
+      }
+      button {
+        margin: 0 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+      }
+      .inner {
+        margin-left: 450px;
+      }
+      .three {
+        margin-top: 5px;
+        margin-left: 600px;
+        font-weight: bold;
+        background-color: #ea7676;
+      }
+      .one {
+        font-weight: bold;
+        background-color: #ADD8E6;
+      }
+      .two {
+        font-weight: bold;
+        background-color: #ADD8E6;
+      }
+      .value{
+        background-color: #FFFF00;
+      }
+   
